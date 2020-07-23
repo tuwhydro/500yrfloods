@@ -1,0 +1,104 @@
+code,country,river,location,lat1,lat2,lat3,lon1,lon2,lon3,lon4,Repres,Interp,regionEU
+IT01,Italy,Adige,Verona,45,26,28.81,10,59,50.26,O,2,1,s
+IT02,Italy,Arno,Florence,43,46,14.69,11,14,51.58,O,2,1,s
+IT03,Italy,Po,Ferrara,44,49,49.08,11,36,51.69,O,1,1,s
+IT04,Italy,Tiber,Rome,41,54,5.78,12,27,57.94,O,1,1,s
+ES01,Spain,Middle Duero,Zamora,41,30,0.84,5,44,30,W,2,1,s
+ES02,Spain,Lower Ebro,Tortosa,40,48,46.53,0,31,13.5,O,2,1,s
+ES03,Spain,Upper Ebro,Zaragoza,41,39,23.98,0,52,53.6,W,3,1,s
+ES04,Spain,Guadalmedina,Malaga,36,42,35.66,4,25,33.34,W,1,1,s
+ES05,Spain,Guadalquivir,Sevilla,37,23,31.84,6,1,2.11,W,1,1,s
+ES06,Spain,Jucar,Alzira,39,9,4.27,0,26,0.11,W,2,1,s
+ES07,Spain,Llobregat,Prat de Llobregat,41,19,35.39,2,6,40.85,O,1,1,s
+ES08,Spain,Nervion,Bilbao,43,15,58.91,2,55,40.33,W,2,1,s
+ES09,Spain,Pisuerga,Valladolid,41,39,34.48,4,43,55.78,W,2,0,s
+ES10,Spain,Rieres Pla de Barcelona,Barcelona,41,25,27.96,2,13,23.96,O,3,1,s
+ES11,Spain,Sa Riera,Palma de Mallorca,39,34,11.24,2,38,24.8,O,2,1,s
+ES12,Spain,Middle Segre,Balaguer,41,47,30.46,0,48,25.52,O,2,0,s
+ES13,Spain,Upper Segre,La Seu d Urgell,42,21,8.7,1,27,34.91,O,2,0,s
+ES14,Spain,Lower Segre,Lleida,41,36,53.24,0,37,41.2,O,1,1,s
+ES15,Spain,Segura,Murcia,37,59,1.73,1,7,54.9,W,1,1,s
+ES16,Spain,Riera de Sobirans,Arenys de Mar,41,34,42.48,2,33,6.62,O,3,1,s
+ES17,Spain,Tagus,Aranjuez,40,1,56.62,3,36,44.93,W,1,1,s
+ES18,Spain,Tajo,Toledo,39,51,28.76,4,1,1.2,W,1,1,s
+ES19,Spain,Ter,Girona,41,59,24.14,2,49,9.32,O,1,1,s
+ES20,Spain,Turia,Valencia,39,27,14.5,0,20,29.83,W,1,1,s
+PT01,Portugal,Lower Duero,Porto,41,9,3.68,8,38,38.49,W,1,1,s
+FR01,France,Allier,Parentignat,45,43,47.17,3,12,58,O,2,1,w
+FR02,France,Durance,Bonpas,43,41,21.15,5,40,1.34,O,2,1,w
+FR03,France,Drac,Grenoble,45,11,22.64,5,42,7.24,O,2,1,w
+FR04,France,Middle Garonne,Agen,44,11,42.05,0,36,40.06,O,1,1,w
+FR05,France,Upper Garonne,Toulouse,43,35,41.68,1,26,19.89,O,2,0,w
+FR06,France,Isere,Grenoble,45,11,40.7,5,43,44.25,O,2,1,w
+FR07,France,Middle Loire,Blois,45,51,53.83,1,47,56.28,O,1,0,w
+FR08,France,Lower Loire,Saumur,47,15,41.87,0,4,35.66,W,1,1,w
+FR09,France,Marne,Meaux,48,57,28.95,2,52,47.59,O,2,1,w
+FR10,France,Oise,Pontoise,49,15,6.18,2,27,26.44,O,3,1,w
+FR11,France,Rhone,Arles,43,56,29.19,4,47,2.3,O,1,1,w
+FR12,France,Saone,Lyon,46,18,18.92,4,50,9.45,O,2,1,w
+FR13,France,Seine,Paris,48,51,27.53,2,20,22.72,O,1,1,w
+FR14,France,Tarn,Montauban,44,1,1.11,1,20,55.88,O,3,1,w
+FR15,France,Yonne,Courlon,48,12,17,3,16,30.5,O,2,1,w
+GB01,Great Britain,Yorkshire Ouse,York,53,57,39,1,5,13.57,W,3,1,w
+GB02,Great Britain,Tay,Perth,56,23,41.74,3,25,31.35,W,3,1,w
+GB03,Great Britain,Trent,Nottingham,52,56,17.22,1,8,9.5,W,3,1,w
+BE01,Belgium,Jeker,Maastricht,50,50,30.27,5,41,58.69,O,3,1,w
+BE02,Belgium,Hoyoux,Huy,50,31,11.5,5,14,17.76,O,3,1,w
+BE03,Belgium,Sambre,Namur,50,27,42.92,4,52,3.96,O,2,1,w
+BE04,Belgium,Meuse,Venlo,50,38,55.16,5,36,8.58,O,1,1,w
+NL01,Netherlands,Lower Rhine,Gorinchem,51,50,58.27,6,6,40.43,O,1,1,w
+DE01,Germany,Inn,Wasserburg,47,16,27.09,11,25,47.37,O,2,1,c
+DE02,Germany,Iller,Kempten,47,43,42.8,10,19,4.14,O,2,0,c
+DE03,Germany,Isar,Munchen,48,8,58.22,11,35,53.47,O,2,1,c
+DE04,Germany,Lech,Augsburg,48,22,33.62,10,54,48.36,O,2,0,c
+DE05,Germany,Main,Wurzburg,49,47,56.02,9,55,25.39,O,1,1,c
+DE06,Germany,Upper Danube,Ulm,48,23,34.58,9,59,17.18,O,1,1,c
+DE07,Germany,Salzach,Burghausen,48,10,0.07,12,50,18.89,O,2,0,c
+DE08,Germany,Werra,Vacha,50,34,27.11,10,24,53.21,O,1,1,c
+CH01,Switzerland,Upper Rhine,Basel,47,33,47.98,7,35,28.21,O,2,1,c
+CH02,Switzerland,Alpenrhein,Fussach,47,2,57.09,9,28,39.67,O,2,0,c
+CH03,Switzerland,Aare,Brienzwiler,46,44,47.13,8,5,58.98,O,3,0,c
+CH04,Switzerland,Emme,Emmenmatt,46,56,55.76,7,44,54.04,O,3,0,c
+CH05,Switzerland,Lutschine,Gsteig,46,23,7.53,7,16,1.97,O,3,0,c
+CH06,Switzerland,Muotha,Ingenbohl,47,0,9.71,8,36,17.01,O,3,1,c
+CH07,Switzerland,Schachen,Burglen,46,52,37.6,8,39,48,O,3,0,c
+CH08,Switzerland,Sihl,Zurich,47,22,18.95,8,32,33.3,O,3,0,c
+CH09,Switzerland,Sitter,Appenzell,47,19,51.44,9,24,39.89,O,3,0,c
+CH10,Switzerland,Thur,Andelfinger,47,35,42.72,8,40,46.63,O,3,0,c
+CH11,Switzerland,Umäsch,Hundwil,47,21,50.21,9,18,30.44,O,3,0,c
+AT01,Austria,Traun,Wels,48,9,25.51,14,2,39.08,O,2,1,c
+AT02,Austria,Wien,Vienna,48,12,0.86,16,15,9.77,O,3,0,c
+HR01,Croatia,Drava,Osijek,46,17,48.55,16,53,10.85,O,2,1,c
+HU01,Hungary,Middle Danube,Mohacs,47,44,57.93,18,8,46.27,O,2,1,c
+HU02,Hungary,Maros,Szeged,46,5,27.62,21,41,18.3,O,2,1,c
+HU03,Hungary,Tisza,Szeged,46,42,40.12,20,11,34.59,O,2,1,c
+CZ01,Czech Republic,Dyje,Travni Dvur,48,50,51.84,16,3,6.44,O,2,1,c
+CZ02,Czech Republic,Elbe,Decin,50,46,49.89,14,12,34.56,O,1,1,c
+CZ03,Czech Republic,Morava,Kromeriz,48,54,15.36,17,18,47.34,O,2,1,c
+CZ04,Czech Republic,Middle Odra,Bohumin,49,52,18.5,18,17,6.96,O,2,1,c
+CZ05,Czech Republic,Ohre,Louny,50,21,31.37,13,47,43.06,O,1,1,c
+CZ06,Czech Republic,Lower Otava,Pisek,49,18,29.53,14,8,47.38,O,2,1,c
+CZ07,Czech Republic,Upper Otava,Susice,49,13,47.54,13,31,17.25,O,2,0,c
+CZ08,Czech Republic,Vltava,Prague,50,5,34.65,14,24,55.58,O,1,1,c
+PL01,Poland,Upper Odra,Wroclaw,51,7,53.95,17,0,7.29,O,1,0,c
+PL02,Poland,Vistula,Cracow,50,3,15.47,19,55,42.01,O,2,1,c
+NO01,Norway,Driva,Sunndalsora,62,40,24.26,8,33,23.29,O,3,1,n
+NO02,Norway,Gaula,Melhus,63,2,9.58,10,18,1.11,O,3,1,n
+NO03,Norway,Glomma,Frederikstad,60,23,6.08,12,1,7.1,O,2,1,n
+NO04,Norway,Numedalslagen,Kongsberg,59,39,59.43,9,39,4.36,O,3,1,n
+NO05,Norway,Olden,Olden,61,50,3.98,6,48,11.33,O,3,1,n
+NO06,Norway,Orkla,Svorkmo,63,2,43.68,9,42,45.39,O,3,1,n
+NO07,Norway,Skienselv,Skien,59,11,55.27,9,36,27.34,O,3,1,n
+NO08,Norway,Tinne,Gransherad,59,41,25.09,9,2,14.41,O,3,1,n
+NO09,Norway,Valldola,Valldalen,62,17,52.46,7,15,34.91,O,3,1,n
+NO10,Norway,Vosso,Vossevangen,60,37,51.28,6,26,14.62,O,3,1,n
+SE01,Sweden,Dalalven ,Ytterboda,60,24,47.89,15,46,3.82,O,3,1,n
+SE02,Sweden,Gota alv,Goteborg,57,56,47.79,12,4,53.86,O,2,1,n
+SE03,Sweden,Motala strom,Norrkoping,58,31,59.27,15,2,46.78,O,3,1,n
+SE04,Sweden,Norrstrom,Stockholm,59,19,45.49,18,4,23.39,O,1,1,n
+LV01,Latvia,Daugava,Riga,56,57,4.64,24,5,52.15,O,3,1,e
+RU01,Russia,Dnieper,Dnipropetrowsk,48,25,3.05,35,4,26.63,O,2,1,e
+RU02,Russia,Neva,St Petersburg,59,56,33.12,30,23,53.98,O,2,1,e
+RU03,Russia,Severnaya Dvina,Arkhangelsk,64,31,29.92,40,33,51.45,O,2,1,e
+RU04,Russia,Volga,Nizhniy Novgorod,56,20,28.26,43,57,40.12,O,2,1,e
+RU05,Russia,Volga,Astrakhan,46,23,47.2,48,1,57.49,O,3,1,e
