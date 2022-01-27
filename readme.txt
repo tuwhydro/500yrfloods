@@ -1,5 +1,8 @@
 This readme describes the structure of the data files. For more details please refer to the paper. 
 
+Note: The data are only and exclusively provided to allow repeating and verifying the analyses of the paper. 
+For use for any other purpose, permission must be obtained from the data owners listed in the paper.
+
 i_f.csv contains the flood intensity index and the associated seasonality of the historical flood series. 
 Description of columns in the file: 
 Code: Code of series (see Extended Data Table 1)
